@@ -557,9 +557,8 @@ body {
 ```
 
 ## OUTPUT
-<img width="967" height="830" alt="image" src="https://github.com/user-attachments/assets/e47d3f21-8f8b-4d16-902b-c66605ac318a" />
-<img width="975" height="165" alt="image" src="https://github.com/user-attachments/assets/7ff3266c-b348-4292-8350-0701c5402028" />
-
+<img width="1916" height="896" alt="Screenshot 2026-09-05 135025" src="https://github.com/user-attachments/assets/f3c21314-b8f8-4a92-9c2d-124d0dce69e4" />
+<img width="1916" height="885" alt="Screenshot 2026-09-05 135041" src="https://github.com/user-attachments/assets/3cc94bf3-7df9-4b5a-9d85-a0b2939e6169" />
 
 
 ## RESULT
